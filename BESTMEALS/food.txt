@@ -1,0 +1,8 @@
+Pizza 25.00
+Chili 14.59
+Sushi 5.00
+Pancakes 12.65
+Ceviche 7.56
+Hamburger 6.00
+Tacos 11.78
+Bagel 7.50
